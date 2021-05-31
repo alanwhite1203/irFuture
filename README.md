@@ -51,4 +51,8 @@ Trade Date	12/2/2016
 
 
 Reference:
-https://finpricing.com/knowledge.html
+
+https://finpricing.com/lib/EqConvertible.html
+
+https://github.com/alanwhite1203/irFuture/raw/main/IrFuture-34.pdf
+
